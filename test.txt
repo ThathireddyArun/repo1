@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is A69E-5F87
+
+ Directory of C:\Users\Arun Reddy\Desktop\Sample Project
+
+26-06-2021  18:06    <DIR>          .
+26-06-2021  18:06    <DIR>          ..
+26-06-2021  18:06                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  130,062,458,880 bytes free
